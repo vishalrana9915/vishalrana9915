@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NodeJs, React, Redis, NOSQL, SQL, Queues.**
 
-- 📫 How to reach me **vishalrana1610@gmail.com**
+- 📫 How to reach me **vishalrana9915@gmail.com**
 
 - 📄 Know about my experiences [http://vishalrana9915.wixsite.com/info](http://vishalrana9915.wixsite.com/info)
 
