@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **chela** available [https://chela.io]
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently **Vibe Coding**
 
 - 📝 I regularly write articles on [https://medium.com/@vishalrana9915](https://medium.com/@vishalrana9915)
 
-- 💬 Ask me about **NodeJs, React, Redis, NOSQL, SQL, Queues.**
+- 💬 Ask me about **NodeJS, React, Redis, NOSQL, SQL, Queues.**
 
 - 📫 How to reach me **vishalrana9915@gmail.com**
 
