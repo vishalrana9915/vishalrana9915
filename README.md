@@ -1,26 +1,92 @@
-<h1 align="center">Hi 👋, I'm Vishal Rana</h1>
-<h3 align="center">Software developer by passion, I love to solve problems. I have a love for designing architecture, working with servers, automating things and so on.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **chela** available [https://chela.io]
+<img width="100%" src="./assets/hero.svg" alt="Vishal Rana — Software Engineer, Systems Thinker, Builder" />
 
-- 🌱 I’m currently **Vibe Coding**
+`I design systems that survive the real world.`
 
-- 📝 I regularly write articles on [https://medium.com/@vishalrana9915](https://medium.com/@vishalrana9915)
-
-- 💬 Ask me about **NodeJS, React, Redis, NOSQL, SQL, Queues.**
-
-- 📫 How to reach me **vishalrana9915@gmail.com**
-
-- 📄 Know about my experiences [http://vishalrana9915.wixsite.com/info](http://vishalrana9915.wixsite.com/info)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishal-rana-b5b53b125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@vishalrana9915" height="30" width="40" /></a>
-<a href="https://medium.com/@vishalrana9915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishalrana9915" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishal_rana9915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishal_rana9915" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/r_vishal95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_vishal95" height="30" width="40" /></a>
+<p>
+  <a href="https://chela.io"><img src="./assets/building-chela.svg" alt="Building Chela" /></a>
+  &nbsp;
+  <a href="mailto:vishalrana9915@gmail.com"><img src="./assets/email-vishal.svg" alt="Email Vishal" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</div>
 
+```console
+vishal@dev:~$ whoami
+Software engineer who enjoys architecture, distributed systems,
+servers, automation, and the hard problems hiding between them.
+
+vishal@dev:~$ current_mission
+Building Chela · Exploring AI-native development · Shipping useful things
+```
+
+## `> system.profile`
+
+```yaml
+name: Vishal Rana
+role: Software Engineer
+location: India
+focus:
+  - Scalable backend architecture
+  - Distributed systems & event-driven workflows
+  - Cloud infrastructure & developer automation
+  - Fast, thoughtful product engineering
+currently_building: Chela
+learning_mode: "Vibe coding — with engineering discipline"
+ask_me_about: [Node.js, React, Redis, SQL, NoSQL, Queues]
+```
+
+## `> architecture.toolbox`
+
+<div align="center">
+
+| `CORE` | `DATA + MESSAGING` | `CLOUD + DELIVERY` | `INTERFACE + QUALITY` |
+|:---:|:---:|:---:|:---:|
+| JavaScript | PostgreSQL | AWS | React |
+| TypeScript | MySQL | GCP | Angular |
+| Node.js | MongoDB | Docker | GraphQL |
+| Go | Redis | NGINX | Jest |
+| Express | RabbitMQ | Jenkins | Postman |
+| Bash | SQL + NoSQL | Linux + Git | Chart.js |
+
+</div>
+
+```mermaid
+flowchart LR
+    A["Idea"] --> B["Architecture"]
+    B --> C["Build"]
+    C --> D["Automate"]
+    D --> E["Observe"]
+    E --> F["Scale"]
+    F -. "learn & iterate" .-> B
+```
+
+## `> build.protocol`
+
+| 01 — ARCHITECT | 02 — SHIP | 03 — OPERATE | 04 — EVOLVE |
+|:---|:---|:---|:---|
+| Model the system and its failure modes | Build the smallest durable solution | Automate, observe, and remove toil | Learn from reality and iterate |
+
+Explore my repositories, contribution history, and current experiments directly on [my GitHub profile](https://github.com/vishalrana9915).
+
+## `> open.channels`
+
+<div align="center">
+
+[`LINKEDIN // CONNECT`](https://www.linkedin.com/in/vishal-rana-b5b53b125/) ·
+[`MEDIUM // READ`](https://medium.com/@vishalrana9915) ·
+[`LEETCODE // SOLVE`](https://www.leetcode.com/r_vishal95) ·
+[`HACKERRANK // CODE`](https://www.hackerrank.com/vishal_rana9915) ·
+[`PORTFOLIO // EXPLORE`](http://vishalrana9915.wixsite.com/info) ·
+[`EMAIL // SAY HELLO`](mailto:vishalrana9915@gmail.com)
+
+I write about software, architecture, and lessons from building in public on [Medium](https://medium.com/@vishalrana9915).
+
+<br />
+
+> **Good systems feel simple on the outside because someone embraced the complexity inside.**
+
+<img width="100%" src="./assets/footer.svg" alt="Keep building, keep iterating" />
+
+</div>
