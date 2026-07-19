@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="title">
+  <title id="title">End of Vishal Rana's profile</title>
+  <defs><linearGradient id="g"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff2e88"/></linearGradient></defs>
+  <rect width="1200" height="90" rx="18" fill="#070a16"/>
+  <path d="M0 44C180 12 320 78 510 43S840 16 1200 48" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <path d="M0 58C210 27 350 90 560 58s350-25 640 3V90H0Z" fill="url(#g)" opacity=".13"/>
+  <text x="600" y="34" text-anchor="middle" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4">KEEP BUILDING // KEEP ITERATING</text>
+</svg>

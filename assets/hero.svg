@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Vishal Rana — Software Engineer</title>
+  <desc id="desc">Futuristic neon profile banner for Vishal Rana</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0b1026"/>
+      <stop offset="1" stop-color="#160b2d"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5ff"/>
+      <stop offset="0.52" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ff2e88"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#34d9e8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <circle cx="1060" cy="48" r="190" fill="#7c3aed" opacity=".13"/>
+  <circle cx="126" cy="304" r="180" fill="#00f5ff" opacity=".08"/>
+  <path d="M38 48V30a12 12 0 0 1 12-12h150M1000 18h150a12 12 0 0 1 12 12v18M1162 282v18a12 12 0 0 1-12 12h-150M200 312H50a12 12 0 0 1-12-12v-18" fill="none" stroke="url(#neon)" stroke-width="3"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="600" y="78" text-anchor="middle" fill="#00f5ff" font-size="16" letter-spacing="6">SYSTEM.PROFILE // ONLINE</text>
+    <text x="600" y="174" text-anchor="middle" fill="#ffffff" font-size="66" font-weight="800" letter-spacing="7" filter="url(#glow)">VISHAL RANA</text>
+    <rect x="286" y="207" width="628" height="2" rx="1" fill="url(#neon)"/>
+    <text x="600" y="252" text-anchor="middle" fill="#cbd5e1" font-size="19" letter-spacing="3">SOFTWARE ENGINEER • SYSTEMS THINKER • BUILDER</text>
+    <text x="600" y="294" text-anchor="middle" fill="#7dd3fc" font-size="13" letter-spacing="2">BACKEND  →  CLOUD  →  AUTOMATION  →  SCALE</text>
+  </g>
+</svg>
